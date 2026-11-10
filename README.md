@@ -140,5 +140,12 @@ ESP32_TFT_GMT130/
 │   └── ESP32_TFT_GMT130.cpp Testprogramm
 ├── test/                    Unit-Tests (leer)
 ├── platformio.ini           Projekt- und Display-Konfiguration
+├── LICENSE                  MIT-Lizenz
 └── README.md
 ```
+
+---
+
+## Lizenz
+
+Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
